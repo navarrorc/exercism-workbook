@@ -16,7 +16,7 @@ echo "export PATH=$HOME/bin:$PATH" >> ~/.bashrc
 
 # Step 4
 # Uncomment the line below and make sure you provide your own API Key, see http://exercism.io/cli/linux
-exercism configure --key=8164ec9f238e44baab0ad3e54fa4162c
+exercism configure --key=YOUR_API_KEY
 
 # Step 5
 # You can change this location but not recommended, DO NOT CHANGE! unless you know what you are doing
